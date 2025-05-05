@@ -18,11 +18,11 @@ In the next few steps I will be going through this steps:
 1. Visit: https://partyrock.aws/  (crate an account if you already don't have one)
 2. Generate your first application by clicking "Generate  app" button
 
-     <img src="image.png" alt="Description" width="350"/>
+     <img src="pictures/image.png" alt="Description" width="350"/>
 
 3. Type in the box: "Generate a daily task scheduler application"
 
-     <img src="image-1.png" alt="Description" width="350"/>
+     <img src="pictures/image-1.png" alt="Description" width="350"/>
 
 
 4. Click "Generate" and see the magic!
@@ -43,13 +43,13 @@ In the next few steps I will be going through this steps:
 2. You can custom your widget by changing the name and placeholder.
 3. Let's give this widget as an input for preparation of schedule. You can change the prompt to enter the time required for each task.
 
-     <img src="image-2.png" alt="Description" width="350"/>
+     <img src="pictures/image-2.png" alt="Description" width="350"/>
 
 4. Save and check new schedule. 
 5. Try and add a motivation quote widget to generate a motivational quote and a photo generator to generate a motivational image and get you started with your day. For that use AI-powered options: Generated Text and Generated Image. 
 
-     <img src="image-3.png" alt="Description" width="350"/>
-     <img src="image-4.png" alt="Description" width="350"/>
+     <img src="pictures/image-3.png" alt="Description" width="350"/>
+     <img src="pictures/image-4.png" alt="Description" width="350"/>
 
 6. Remember that you can be creative and add or change widgets as much as you want! 
 
