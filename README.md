@@ -4,7 +4,7 @@ Build your own daily scheduler application using Amazon PartyRock
 
 ## Overview
 
-I will build a "Daily Task Scheduler Application" using Amazon PartyRock, a new AWS platform that leverages generative AI to make app development easier. If you're not familiar with PartyRock, it’s designed to help streamline the creation of applications with minimal effort.
+I build a "Daily Task Scheduler Application" using Amazon PartyRock, a new AWS platform that leverages generative AI to make app development easier. If you're not familiar with PartyRock, it’s designed to help streamline the creation of applications with minimal effort.
 
 In the next few steps I will be going through this steps:
  - Generating the application
